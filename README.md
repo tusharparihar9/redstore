@@ -1,1 +1,1 @@
-RedStore E-commerce Website(Frontend using HTML, CSS, JS )
+RedStore is an E-commerce Frontend Website(using HTML, CSS, JS )
